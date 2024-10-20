@@ -1,0 +1,1 @@
+Don't delete this file, so the directory won't be removed. The directory is needed for the program to function properly.
